@@ -4,7 +4,7 @@
 ## Description
 This dataset is recorded by 498 native Russian speakers with a balanced gender. It is rich in content and it covers generic command and control;human-machine interaction; smart home command and control;in-car command and control categories. The transcription corpus has been manually proofread to ensure high accuracy.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1042?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1042?source=Github
 
 
 ## Format
